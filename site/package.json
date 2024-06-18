@@ -19,11 +19,11 @@
     "do-not-zip": "^1.0.0",
     "flru": "^1.0.2",
     "httpie": "^1.1.2",
-    "jsonwebtoken": "^8.5.1",
-    "marked": "^3.0.5",
+    "jsonwebtoken": "^9.0.0",
+    "marked": "^4.0.10",
     "pg": "^8.7.1",
     "prism-svelte": "^0.4.3",
-    "prismjs": "^1.25.0"
+    "prismjs": "^1.27.0"
   },
   "devDependencies": {
     "@sindresorhus/slugify": "^0.9.1",
@@ -33,11 +33,11 @@
     "@sveltejs/svelte-repl": "^0.3.0",
     "degit": "^2.1.4",
     "dotenv": "^10.0.0",
-    "jimp": "^0.8.0",
-    "node-fetch": "^2.6.1",
+    "jimp": "^0.22.12",
+    "node-fetch": "^2.6.7",
     "node-pg-migrate": "^6.0.0",
-    "shelljs": "^0.8.3",
-    "svelte": "^3.39.0",
+    "shelljs": "^0.8.5",
+    "svelte": "^3.49.0",
     "uvu": "^0.5.2"
   }
 }
